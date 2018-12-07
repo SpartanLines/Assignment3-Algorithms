@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\egypt2\source\repos\project4\problem2\source.cpp(22): warning C4018: '<': signed/unsigned mismatch
+  Problem2.vcxproj -> c:\users\egypt2\source\repos\Project4\Debug\Problem2.exe
+  Problem2.vcxproj -> c:\users\egypt2\source\repos\Project4\Debug\Problem2.pdb (Partial PDB)
